@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **qaisariayman@gmail.com**
 
-- 📄 Know about my experiences [still working on it](still working on it)
+- 📄 Know about my experiences **still working on it**
 
 - ⚡ Fun fact **I don't know what I am doing**
 
