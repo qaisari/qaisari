@@ -30,8 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ayman-qaisari-3337a3251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayman qaisari" height="30" width="40" /></a>
-<a href="https://fb.com/qaisari ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="qaisari ayman" height="30" width="40" /></a>
-<a href="https://instagram.com/qaisari_ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qaisari_ayman" height="30" width="40" /></a>
+<a href="mailto:qaisariayman@gmail.com" target="blank"><img align="center" src="gmail2.PNG" alt="qaisari ayman" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Acheavments:</h3>
