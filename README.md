@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisari&label=Profile%20views&color=0e75b6&style=flat" alt="qaisari" /> </p>
 
-- 🔭 I’m currently working on **My Readme page**
+- 🔭 I’m currently working on my **Web programming project**
 
 - 🌱 I’m currently learning **C, C++, C#**
 
@@ -15,15 +15,11 @@
 
 - 🤝 I’m looking for help with **everything**
 
-- 👨‍💻 All of my projects are available at [still working on it](still working on it)
-
-- 📝 I regularly write articles on [still working on it](still working on it)
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **nothing**
 
 - 📫 How to reach me **qaisariayman@gmail.com**
-
-- 📄 Know about my experiences **still working on it**
 
 - ⚡ Fun fact **I don't know what I am doing**
 
