@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisari&label=Profile%20views&color=0e75b6&style=flat" alt="qaisari" /> </p>
 
-- 🔭 I’m currently working on my **Web programming project**
+- 🔭 I’m currently working on my **tic-tac-toe games**
 
-- 🌱 I’m currently learning **C, C++, C#**
+- 🌱 I’m currently learning **React**, **JS**
 
 - 👯 I’m looking to collaborate on **nothing**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **qaisariayman@gmail.com**
 
-- ⚡ Fun fact **I don't know what I am doing**
+- ⚡ Fun fact **I still don't know what I am doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
