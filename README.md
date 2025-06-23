@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **tic-tac-toe game**
 
-- 🌱 I’m currently learning **React**, **JS**
+- 🌱 I’m currently learning **React**, **JS**, **Vite**
 
 - 👯 I’m looking to collaborate on **nothing**
 
