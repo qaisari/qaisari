@@ -56,7 +56,7 @@
   <h2>⚡ Stats ⚡</h2>
   <div style="display: flex; justify-content: center; gap: 2ho0px;">
     <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaisari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
-    <img width="320" src="https://github-readme-stats.vercel.app/api?username=qaisari&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
+    <img width="455" src="https://github-readme-stats.vercel.app/api?username=qaisari&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
   </div>
 </div>
 
