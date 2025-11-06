@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **Uni Projects expect them soon...**
 
-- 🌱 I’m currently learning **Java**, **PHP**, **Python**
+- 🌱 I’m currently learning **Java**, **PHP**, **Python** and **ASP.NET**
 
 - 👯 I’m looking to collaborate on **anything**
 
