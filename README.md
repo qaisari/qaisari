@@ -7,21 +7,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisari&label=Profile%20views&color=0e75b6&style=flat" alt="qaisari" /> </p>
 
-- 🔭 I’m currently working on my **tic-tac-toe game**
+- 🔭 I’m currently working on my **Uni Projects expect them soon...**
 
-- 🌱 I’m currently learning **React**, **JS**, **Vite**
+- 🌱 I’m currently learning **Java**, **PHP**, **Python**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **everything**
+- 🤝 I’m looking for help with **finding a group for a Hackathon**
 
 - 👨‍💻 All of my projects are available here
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **qaisariayman@gmail.com**
 
-- ⚡ Fun fact **I still don't know what I am doing**
+- ⚡ Fun fact **I still don't know what I am doing and that is the fun part about it 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
