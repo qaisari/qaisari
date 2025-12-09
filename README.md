@@ -50,7 +50,7 @@
   <br>
   <img align="right" src="https://github.com/qaisari/qaisari/blob/output/github-snake-dark.svg" alt="Snake animation" />
   <br/><br/><br/>
-</div>-->
+</div>
 
 <div align="center">
   <h2>⚡ Stats ⚡</h2>
@@ -58,7 +58,7 @@
     <img width="345" src="https://github-readme-stats.vercel.app/api/top-langs?username=qaisari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="most used languages" />
     <img width="455" src="https://github-readme-stats.vercel.app/api?username=qaisari&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
   </div>
-</div>
+</div>-->
 
 <div align="center" style="margin-top: 40px;">
   <h2>🐍 My Contributions 🐍</h2>
