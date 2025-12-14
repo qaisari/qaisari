@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisari&label=Profile%20views&color=0e75b6&style=flat" alt="qaisari" /> </p>
 
-- 🔭 I’m currently working on my **Uni Projects expect them soon...**
+- 🔭 I’m currently working on my **Uni Projects and you can check them out Forex-trading and Neptun-Platform**
 
 - 🌱 I’m currently learning **Java**, **PHP**, **Python** and **ASP.NET**
 
