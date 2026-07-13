@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on my **Uni Projects and you can check them out Forex-trading and Neptun-Platform and also student-platform-NodeJs**
 
-- 🌱 I’m currently learning **Java**, **Node.js** **PHP**, **Spring Boot** and **ASP.NET**
+- 🌱 I’m currently learning **Java**, **Node.js** **PHP**, **Spring Boot** and **ASP.**
 
 - 👯 I’m looking to collaborate on **anything**
 
