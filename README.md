@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisari&label=Profile%20views&color=0e75b6&style=flat" alt="qaisari" /> </p>
 
-- 🔭 I’m currently working on my **Uni Projects and you can check them out Forex-trading and Neptun-Platform and also student-platform-NodeJs**
+- 🔭 I’m currently working on my **Uni Projects and you can check them out Forex-trading and Neptun-Platform and also student-platform-Node**
 
 - 🌱 I’m currently learning **Java**, **Node.js** **PHP**, **Spring Boot** and **ASP.NET**
 
