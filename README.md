@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **find a group for a Hackathon**
+- 🤝 I’m looking for help with **finding a group for a Hackathon**
 
 - 👨‍💻 All of my projects are available here
 
